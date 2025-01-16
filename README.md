@@ -2,7 +2,7 @@
 We zijn een cross-functioneel Agile team. Bestaande uit  docent datawetenschappers + Tech support. 
 
 
-### Supported EAS onderwijs Projecten
+### Overzicht Supported Data Science EAS onderwijs Projecten
 
 * digiLAURA (LC/MS, Automatic, Universal, Result, Analysis) </br>
 
