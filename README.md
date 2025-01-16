@@ -1,5 +1,5 @@
 ## EAS DataScience_SUPPORT
-Instituut voor Engineering en Applied Science (EAS) is een relevante speler in de regio als het gaat om hoger techniekonderwijs.
+Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
 Het HR Datalab EAS is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support. 
 
 
