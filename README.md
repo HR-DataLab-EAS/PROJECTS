@@ -1,4 +1,4 @@
-## RESEARCH_SUPPORT
+## DataScience_SUPPORT
 We zijn een cross-functioneel Agile team. Bestaande uit  docent datawetenschappers + Tech support. 
 
 
