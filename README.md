@@ -1,5 +1,6 @@
-## DataScience_SUPPORT
-We zijn een cross-functioneel Agile team. Bestaande uit  docent datawetenschappers + Tech support. 
+## EAS DataScience_SUPPORT
+Instituut voor Engineering en Applied Science (EAS) is een relevante speler in de regio als het gaat om hoger techniekonderwijs.
+Het HR Datalab EAS is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support. 
 
 
 ### Overzicht Supported Data Science EAS onderwijs Projecten
