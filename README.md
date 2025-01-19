@@ -49,7 +49,7 @@ De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digi
 
 De strikte scheiding tussen de tastbare, analoge wereld versus de virtuele, digitale wereld vervaagd hierdoor. Het gevolg is dat er steeds meer en sneller ongestructureerde data, digitaal beschikbaar komt in de vorm van vrije teksten, afbeeldingen, audio- en video-opnamen. Door deze transitie is kennis over DS in de vorm van het verantwoord toepassen van informatietechnologie van groot maatschappelijk belang. 
 
-Het **HR DataLab-ecosysteem**  ondersteund vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze federatieve benadering faciliteert niet alleen het verzamelen en bewaren van data, maar ook het opbouwen van informatiewaardeketens in de vorm van Data Science workflows. 
+Het **HR DataLab-ecosysteem**  ondersteund vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze collaboratieve werkwijze faciliteert niet alleen het verzamelen, bewaren en delen van data, maar ook het opbouwen van open-source informatiewaardeketens in de vorm van Data Science workflows & Gihub repositories. 
 
 Door het **HR DataLab EAS** en andere gespecialiseerde DataLabs te integreren, streeft HR ernaar een robuuste infrastructuur te ontwikkelen die innovatie, onderwijs en onderzoek ondersteunt in diverse domeinen, waaronder technologie, stedelijke ontwikkeling en techniek.
 
@@ -60,7 +60,7 @@ Door het **HR DataLab EAS** en andere gespecialiseerde DataLabs te integreren, s
 ##  EAS Data Science Use Cases
 Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
 
-Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Hieronder staan actuele DS use cases beschreven in de vorm een informatiewaardeketen en bijbehorende DS-workflow.
+Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op de locatie Academie Plein. Hieronder staan actuele DS use cases beschreven in de vorm een informatiewaardeketen en bijbehorende DS-workflow.
 
 
 ### 
