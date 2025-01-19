@@ -3,11 +3,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 -->
 
 
-<font size="8"> **HR DATALAB EAS**</font>
+<font size="9"> **HR DATALAB EAS**</font>
 
 ***********
 
-<font size="6"> **Mission Statement & Visie op Data**</font>
+<font size="7"> **Mission Statement & Visie op Data**</font>
 
 
 Hogeschool Rotterdam **--HR--** huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het veilig en verantwoord ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
