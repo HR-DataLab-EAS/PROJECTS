@@ -37,7 +37,13 @@ Deze **"Github Repository"** beschrijft hoe HR-DataLab EAS vorm geeft aan **"inf
 <br> 
 
 
-Data Science  **––DS––** en Computational Thinking  **––CT––** zijn twee interdisciplinaire vakgebieden die nauw met elkaar verweven zijn in de moderne wereld van data-analyse en probleemoplossing. **DS** is  een wetenschap dat statistiek, data-analyse, en aanverwante methodieken *-- zoals Machine Learnig & Artificial Intelligence"* verenigt om kennis en inzichten te onttrekken uit zowel gestructureerde als ongestructureerde data. **CT** is een probleemoplossende, educatieve aanpak die gebruik maakt van concepten uit de informatica, zoals abstractie, decompositie en algoritmisch denken, om complexe problemen aan te pakken en op te lossen met behulp van didactisch verantwoorde methoden. Beide disciplines vullen elkaar aan, waarbij  **––DS––** de technieken en theorieën uit verschillende wetenschappelijke disciplines combineert, terwijl **––CT––** de cognitieve vaardigheden biedt nodig voor toegepaste data-analyse en probleemoplossing in een digitale context.
+Data Science  **––DS––** en Computational Thinking  **––CT––** zijn twee interdisciplinaire vakgebieden die nauw met elkaar verweven zijn in de moderne wereld van data-analyse en probleemoplossing. 
+
+**DS** is  een wetenschap dat statistiek, data-analyse, en aanverwante methodieken *-- zoals Machine Learnig & Artificial Intelligence"* verenigt om kennis en inzichten te onttrekken uit zowel gestructureerde als ongestructureerde data. 
+
+**CT** is een probleemoplossende, educatieve aanpak die gebruik maakt van concepten uit de informatica, zoals abstractie, decompositie en algoritmisch denken, om complexe problemen aan te pakken en op te lossen met behulp van didactisch verantwoorde methoden. 
+
+Beide disciplines vullen elkaar aan, waarbij  **––DS––** de technieken en theorieën uit verschillende wetenschappelijke disciplines combineert, terwijl **––CT––** de cognitieve vaardigheden biedt nodig voor toegepaste data-analyse en probleemoplossing in een digitale context.
 
 De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digitalisering van onze maatschappij: de overgang van fysieke informatiedragers naar digitale vormen die online genereert en bewerkt kunnen worden. Denk bijvoorbeeld aan de explosieve groei in het gebruik van generatieve AI in de vorm van populaire Chatbots zoals GPT-4o (omni), Gemini, Perplexity.ai en Copilot. 
 
