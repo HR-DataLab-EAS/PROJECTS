@@ -10,7 +10,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 <font size="6"> **Mission Statement**</font>
 
 
-Datalabs van de hogeshool Rotterdam (HR) bieden professionele samenwerkingsverbanden die eindgebruikers van data helpen oplossingen te ontwikkelen voor data science use cases met behulp van ICT-infrastructuur. Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets. Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
+Hogeschool Rotterdam (HR) huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
+
+
+ Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets. Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
 <br> <br> 
 
 
@@ -20,22 +23,32 @@ Datalabs van de hogeshool Rotterdam (HR) bieden professionele samenwerkingsverba
 *****
 
 
->Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending;  of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. Of toch niet??!!! Voorlopig is het een "work-in-progress".
+> Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending, een gesprek met je kan voeren over een thema dat jou interesseert, of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Deze mutimodale generatieve AI-systemen, zoals GPT-4o en Google's Gemini, zijn ontworpen om meerdere vormen van gegevens te begrijpen, interpreteren en integreren, waaronder tekst, afbeeldingen, audio en video. Ze vormen een multimodale, digitale schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie op gang brachten. 
 
-<br> <br> <br> 
+> Anno 2025 maakt generatieve AI deel uit van wat wordt aangeduid als het **"Tech industrial complex"**. Dit complex vertegenwoordigt de culminatie van technologische vooruitgang en industriële ontwikkeling. Generatieve AI zoals OpenAI's GPT-4o en Google's Gemini behoren tot een nieuwe klasse van 'lerende machines', omdat ze symbolen in taal omzetten en computercode schrijven op manieren die creatief lijken, een beetje zoals een mens dat zou doen. Deze veelzijdige aanpak verbetert het contextuele begrip van de AI, waardoor de output veel nauwkeuriger wordt. 
+
+>Toch blijft de vraag: is het echt zoals menselijke creativiteit, of toch niet? Voorlopig is het een "work-in-progress", maar de impact op gebieden zoals autonome voertuigen, gezondheidszorg en conversatieagenten is al merkbaar. uiteidelijk zal dit een opmaat zijn voor **"Agentic-AI**.
+
+>Agentic AI is een geavanceerde vorm van generatieve AI die zich onderscheidt door autonomie en doelgerichtheid. Waar traditionele generatieve AI zich beperkt tot contentcreatie, kan Agentic AI zelfstandig beslissingen nemen, complexe taken uitvoeren en zich aanpassen aan veranderende omstandigheden. Deze intelligente systemen combineren generatief vermogen met contextueel begrip en proactieve probleemoplossing, waardoor ze in staat zijn meerstapsprocessen autonoom te beheren en strategieën te ontwikkelen die verder gaan dan hun oorspronkelijke trainingsgegevens.
+
+*****
+
+<br> 
 
 
+Data Science  **––DS––** en Computational Thinking  **––CT––** zijn twee interdisciplinaire vakgebieden die nauw met elkaar verweven zijn in de moderne wereld van data-analyse en probleemoplossing. **DS** is  een wetenschap dat statistieken, data-analyse en aanverwante methoden verenigt om kennis en inzichten te onttrekken uit zowel gestructureerde als ongestructureerde data. **CT** is een probleemoplossende, educatieve aanpak die gebruik maakt van concepten uit de informatica, zoals abstractie, decompositie en algoritmisch denken, om complexe problemen aan te pakken en op te lossen met behulp van didactisch verantwoorde methoden. Beide disciplines vullen elkaar aan, waarbij  **––DS––** de technieken en theorieën uit verschillende wetenschappelijke disciplines combineert, terwijl **––CT––** de cognitieve vaardigheden biedt nodig voor toegepaste data-analyse en probleemoplossing in een digitale context.
 
-De vraag naar DS-vaardigheden in de vorm van Computational Thinking is sterk toe genomen door de verregaande digitalisering van onze maatschappij: de overgang van fysieke informatiedragers naar digitale vormen die online genereert en bewerkt kunnen worden. Denk bijvoorbeeld aan de explosieve groei in het gebruik van generatieve AI in de vorm van populaire Chatbots zoals ChatGPT, Gemini en Copilot. 
+De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digitalisering van onze maatschappij: de overgang van fysieke informatiedragers naar digitale vormen die online genereert en bewerkt kunnen worden. Denk bijvoorbeeld aan de explosieve groei in het gebruik van generatieve AI in de vorm van populaire Chatbots zoals GPT-4o (omni), Gemini, Perplexity.ai en Copilot. 
 
 De strikte scheiding tussen de tastbare, analoge wereld versus de virtuele, digitale wereld vervaagd hierdoor. Het gevolg is dat er steeds meer en sneller ongestructureerde data, digitaal beschikbaar komt in de vorm van vrije teksten, afbeeldingen, audio- en video-opnamen. Door deze transitie is kennis over DS in de vorm van het verantwoord toepassen van informatietechnologie van groot maatschappelijk belang. 
-Hogeschool Rotterdam investeert in een DataLab-ecosysteem gericht op het ondersteunen van een viertal transitieopgaven, zoals geformuleerd in de “strategische agenda 2023-2028”: (1) duurzame delta, (2) toekomstbestendige economie, (3) vitale gemeenschap en (4) slimme en sociale stad. Doel is het tot stand brengen van een “federated data fabric” voor de regio Rotterdam, waarbij de nadruk ligt op gestandaardiseerd en verantwoord databeheer.
+
+  Hogeschool Rotterdam investeert in een DataLab-ecosysteem gericht op het ondersteunen van een viertal transitieopgaven, zoals geformuleerd in de “strategische agenda 2023-2028”: (1) duurzame delta, (2) toekomstbestendige economie, (3) vitale gemeenschap en (4) slimme en sociale stad. Doel is het tot stand brengen van een “federated data fabric” voor de regio Rotterdam, waarbij de nadruk ligt op gestandaardiseerd en  databeheer.
 <br> <br> 
 
 
 ##  EAS Data Science Use Cases
 Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
-Het HR Datalab EAS is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support. 
+Het HR DataLab EAS is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support. 
 
 
 ### 
