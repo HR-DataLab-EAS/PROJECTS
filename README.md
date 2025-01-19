@@ -42,7 +42,9 @@ De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digi
 
 De strikte scheiding tussen de tastbare, analoge wereld versus de virtuele, digitale wereld vervaagd hierdoor. Het gevolg is dat er steeds meer en sneller ongestructureerde data, digitaal beschikbaar komt in de vorm van vrije teksten, afbeeldingen, audio- en video-opnamen. Door deze transitie is kennis over DS in de vorm van het verantwoord toepassen van informatietechnologie van groot maatschappelijk belang. 
 
-  Hogeschool Rotterdam investeert in een DataLab-ecosysteem gericht op het ondersteunen van een viertal transitieopgaven, zoals geformuleerd in de “strategische agenda 2023-2028”: (1) duurzame delta, (2) toekomstbestendige economie, (3) vitale gemeenschap en (4) slimme en sociale stad. Doel is het tot stand brengen van een “federated data fabric” voor de regio Rotterdam, waarbij de nadruk ligt op gestandaardiseerd en  databeheer.
+Hogeschool Rotterdam investeert in een digitaal innovatie programma bestaande met als fundament een HR DataLab-ecosysteem dat zich richt op het faciliteren vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze federatieve benadering faciliteert niet alleen het verzamelen en bewaren van data, maar ook het opbouwen van waardevolle informatieketens. Door het HR Datalab Healthcare en andere gespecialiseerde labs te integreren, streeft de hogeschool ernaar een robuuste infrastructuur te ontwikkelen die innovatie, onderwijs en onderzoek ondersteunt in diverse domeinen, waaronder zorg, technologie en stedelijke ontwikkeling.
+
+
 <br> <br> 
 
 
