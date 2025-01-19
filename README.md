@@ -10,7 +10,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 <font size="6"> **Mission Statement**</font>
 
 
-Hogeschool Rotterdam (HR) huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
+Hogeschool Rotterdam **--HR--** huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
 
 
  Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets. Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
@@ -42,7 +42,9 @@ De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digi
 
 De strikte scheiding tussen de tastbare, analoge wereld versus de virtuele, digitale wereld vervaagd hierdoor. Het gevolg is dat er steeds meer en sneller ongestructureerde data, digitaal beschikbaar komt in de vorm van vrije teksten, afbeeldingen, audio- en video-opnamen. Door deze transitie is kennis over DS in de vorm van het verantwoord toepassen van informatietechnologie van groot maatschappelijk belang. 
 
-Hogeschool Rotterdam investeert in een innovatie programma met het **HR DataLab-ecosysteem**  als gestructurreed raamwerk gericht op het ondersteunen vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze federatieve benadering faciliteert niet alleen het verzamelen en bewaren van data, maar ook het opbouwen van waardevolle informatieketens in de vorm van Data Science workflows. Door het HR DataLab EAS en andere gespecialiseerde labs te integreren, streeft de hogeschool ernaar een robuuste infrastructuur te ontwikkelen die innovatie, onderwijs en onderzoek ondersteunt in diverse domeinen, waaronder technologie, stedelijke ontwikkeling en techniek.
+Het **HR DataLab-ecosysteem**  ondersteund vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze federatieve benadering faciliteert niet alleen het verzamelen en bewaren van data, maar ook het opbouwen van waardevolle informatieketens in de vorm van Data Science workflows. 
+
+Door het **HR DataLab EAS** en andere gespecialiseerde DataLabs te integreren, streeft HR ernaar een robuuste infrastructuur te ontwikkelen die innovatie, onderwijs en onderzoek ondersteunt in diverse domeinen, waaronder technologie, stedelijke ontwikkeling en techniek.
 
 
 <br> <br> 
