@@ -10,7 +10,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 <font size="6"> **Mission Statement**</font>
 
 
-Hogeschool Rotterdam **--HR--** huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
+Hogeschool Rotterdam **--HR--** huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het veilig en verantwoord ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
 
 
  Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets. Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
