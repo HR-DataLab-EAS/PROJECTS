@@ -70,8 +70,8 @@ Een DS use case is een concrete, praktische toepassing van data science-techniek
 
 Enkele kenmerken van een data science use case zijn:
 * Probleemgericht: Het richt zich op een specifieke vraag of uitdaging.
-* Datagedreven: Het maakt gebruik van beschikbare data om tot oplossingen te komen4.
-* Toegepaste wetenschap (DS + CT): Het combineert statistische technieken, machine learning en artificial intelligence om praktische resultaten te behalen.
+* Datagedreven: Het maakt gebruik van beschikbare data om tot oplossingen te komen.
+* Toegepaste wetenschap (DS + CT): Het combineert statistische technieken, machine learning en artificial intelligence om workflows te implementeren inclusief bijbehorende data pipeline & DS-stack.
 
 
 ***********
