@@ -4,6 +4,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 # <font size="9"> **HR DATALAB EAS**</font>
 
+
+Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
+
+Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op locatie Academie Plein en beschikt over een viertal High Reformance Computing **--HPC--** Workstations met elk met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data intensive en/of reken intensieve data science use cases uit te voeren.
+
+HR DataLab EAS sluit aan bij de focus van EAS op drie thema's: smart energy, smart materials en smart methods. Het DataLab draagt bij aan de ambitie van EAS om studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis over data science de basis vormt voor betekenisvolle inzichten en prototypes.
+
 ***********
 
 <font size="7"> **Mission Statement & Visie op Data**</font>
@@ -23,17 +30,17 @@ Deze **"Github Repository"** beschrijft hoe HR-DataLab EAS vorm geeft aan **"inf
 
 > Anno 2025 maakt generatieve AI deel uit van wat wordt aangeduid als het **"Tech industrial complex"**. Dit complex vertegenwoordigt de culminatie van technologische vooruitgang en industriële ontwikkeling. Generatieve AI zoals OpenAI's GPT-4o en Google's Gemini behoren tot een nieuwe klasse van 'lerende machines', omdat ze symbolen in taal omzetten en computercode schrijven op manieren die creatief lijken, een beetje zoals een mens dat zou doen. Deze veelzijdige aanpak verbetert het contextuele begrip van de AI, waardoor de output veel nauwkeuriger wordt.
 
->Toch blijft de vraag: is het echt zoals menselijke creativiteit, of toch niet? Voorlopig is het een "work-in-progress", maar de impact op gebieden zoals autonome voertuigen, gezondheidszorg en conversatieagenten is al merkbaar. uiteindelijk zal dit een opmaat zijn voor **"Agentic-AI**.
+>Toch blijft de vraag: is het echt zoals menselijke creativiteit, of toch niet? Voorlopig is het een "work-in-progress", maar de impact op gebieden zoals autonome voertuigen, gezondheidszorg en conversatieagenten is al merkbaar. uiteindelijk zal dit een opmaat zijn voor [**"Agentic-AI"**](https://blogs.nvidia.com/blog/what-is-agentic-ai/).
 
 >Agentic AI is een geavanceerde vorm van generatieve AI die zich onderscheidt door autonomie en doelgerichtheid. Waar traditionele generatieve AI zich beperkt tot contentcreatie, kan Agentic AI zelfstandig beslissingen nemen, complexe taken uitvoeren en zich aanpassen aan veranderende omstandigheden. Deze intelligente systemen combineren generatief vermogen met contextueel begrip en proactieve probleemoplossing, waardoor ze in staat zijn meerstapsprocessen autonoom te beheren en strategieën te ontwikkelen die verder gaan dan hun oorspronkelijke trainingsgegevens.
-
+zoek naar opemai
 *****
 
 <br>
 
 Data Science  **––DS––** en Computational Thinking  **––CT––** zijn twee interdisciplinaire vakgebieden die nauw met elkaar verweven zijn in de moderne wereld van data-analyse en probleemoplossing.
 
-**DS** is  een wetenschap dat statistiek, data-analyse, en aanverwante methodieken *-- zoals Machine Learnig & Artificial Intelligence"* verenigt om kennis en inzichten te onttrekken uit zowel gestructureerde als ongestructureerde data.
+**DS** is  een wetenschap dat statistiek, data-analyse, en aanverwante methodieken *-- zoals Machine Learning & Artificial Intelligence"* verenigt om kennis en inzichten te onttrekken uit zowel gestructureerde als ongestructureerde data.
 
 **CT** is een probleemoplossende, educatieve aanpak die gebruik maakt van concepten uit de informatica, zoals abstractie, decompositie en algoritmisch denken, om complexe problemen aan te pakken en op te lossen met behulp van didactisch verantwoorde methoden.
 
@@ -43,18 +50,15 @@ De vraag naar **CT-** vaardigheden is sterk toe genomen door de verregaande digi
 
 De strikte scheiding tussen de tastbare, analoge wereld versus de virtuele, digitale wereld vervaagd hierdoor. Het gevolg is dat er steeds meer en sneller ongestructureerde data, digitaal beschikbaar komt in de vorm van vrije teksten, afbeeldingen, audio- en video-opnamen. Door deze transitie is kennis over DS in de vorm van het verantwoord toepassen van informatietechnologie van groot maatschappelijk belang.
 
-Het **HR DataLab-ecosysteem**  ondersteund vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een **"federated data fabric"** voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze collaboratieve werkwijze faciliteert niet alleen het verzamelen, bewaren en delen van data, maar ook het opbouwen van open-source informatiewaardeketens in de vorm van Data Science workflows & Gihub repositories.
+Het **HR DataLab-ecosysteem**  ondersteund vier transitieopgaven zoals geformuleerd in de **"strategische agenda 2023-2028"**: een duurzame delta, een toekomstbestendige economie, een vitale gemeenschap en een slimme en sociale stad. Het hoofddoel is het creëren van een [**"federated data fabric"**](https://www.researchgate.net/publication/357933768_NO_MORE_SECRETS_AIRA_LivinG-Lab_AI_ETHICS) voor de regio Rotterdam, een aanpak die essentieel is voor het veilig, gestandaardiseerd en verantwoord beheren van digitale informatie. Deze collaboratieve werkwijze faciliteert niet alleen het verzamelen, bewaren en delen van data, maar ook het opbouwen van open-source informatiewaardeketens in de vorm van Data Science workflows & Github repositories.
 
 Door het **HR DataLab EAS** en andere gespecialiseerde DataLabs te integreren, streeft HR ernaar een robuuste infrastructuur te ontwikkelen die innovatie, onderwijs en onderzoek ondersteunt in diverse domeinen, waaronder technologie, stedelijke ontwikkeling en techniek.
 
 <br> <br>
 
-## EAS Data Science Use Cases
+## Overzicht Data Science Use Cases 2025
 
-Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
 
-Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op locatie Academie Plein en beschikt over een viertal High Reformance Computing Workstations met elk met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data intensive en/of reken intensieve data science use cases 
-Hieronder staan actuele DS use cases beschreven in de vorm een informatiewaardeketen en bijbehorende DS-workflow.
 
 
 Rekenintensieve data science use cases zijn pr  aktische toepassingen waarbij grote hoeveelheden data en/of complexe berekeningen een centrale rol spelen. Deze use cases vereisen vaak geavanceerde hardware, zoals high-performance computing (HPC) clusters of GPU's, en gespecialiseerde software om de berekeningen efficiënt uit te voeren.
@@ -62,15 +66,43 @@ Rekenintensieve data science use cases zijn pr  aktische toepassingen waarbij gr
 
 
 
-Een DS use case is een concrete, praktische toepassing van data science-technieken om een specifiek probleem op te lossen of waarde te creëren binnen een organisatie. 
-Het gaat om het gebruik van grote hoeveelheden data om inzichten te verkrijgen, voorspellingen te doen of besluitvorming te ondersteunen14.
-Enkele kenmerken van een data science use case zijn:
-Probleemgericht: Het richt zich op een specifieke vraag of uitdaging binnen een bedrijf5.
-Datagedreven: Het maakt gebruik van beschikbare data om tot oplossingen te komen4.
-Toegepaste wetenschap: Het combineert statistische technieken, machine learning en artificial intelligence om praktische resultaten te behalen9.
+Een DS use case is een concrete, praktische toepassing van data science-technieken om een data intensief en/of reken intensief probleem op te lossen of waarde te creëren binnen een organisatie. DS use cases vereisen geavanceerde hardware, zoals high-performance computing (HPC) clusters of GPU's, en gespecialiseerde software workflows om de berekeningen efficiënt uit te voeren.
 
+Enkele kenmerken van een data science use case zijn:
+* Probleemgericht: Het richt zich op een specifieke vraag of uitdaging.
+* Datagedreven: Het maakt gebruik van beschikbare data om tot oplossingen te komen4.
+* Toegepaste wetenschap (DS + CT): Het combineert statistische technieken, machine learning en artificial intelligence om praktische resultaten te behalen.
+
+
+***********
+<br> <br>
 ###
 
-* ### digiLAURA (LC/MS, Automatic, Universal, Result, Analysis) </br>
 
- The code needed for implement the workflow can be downloaded from [xxx](https://github.com/HR-DataLab-Healthcare/RESEARCH_SUPPORT/tree/main/PROJECTS/QoLEAD/).
+
+<details>
+
+<summary> digiLAURA </summary>
+
+### digiLAURA (LC/MS, Automatic, Universal, Result, Analysis)
+
+Automated reading of Meta Data Thermio .raw files
+
+```python 
+    from pymsfilereader import MSFileReader
+    #rawfile = MSFileReader("Stengel60duplo1")
+
+    rawfile = MSFileReader(r"D:\RAW\EXAMPLE\20241022\Lemonfiness_s3_onbespoten.raw")
+
+    print('GetNumInstMethods', rawfile.GetNumInstMethods())
+    print('GetInstMethodNames', rawfile.GetInstMethodNames())
+        for i in range(rawfile.GetNumInstMethods()):
+        print('-------------------------------------------------------------------------------')
+        print(rawfile.GetInstMethod(0))  # "View/Report/Instrument Method"
+        print('-------------------------------------------------------------------------------')
+        #print('rawfile.ExtractInstMethodFromRaw', rawfile.ExtractInstMethodFromRaw(rawfile.filename + '.meth'))
+```
+
+</details>
+
+
