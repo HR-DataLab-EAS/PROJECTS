@@ -82,11 +82,11 @@ Enkele kenmerken van een data science use case zijn:
 
 <details>
 
-<summary> digiLAURA </summary>
+<summary> liquid-chromatography-mass-spectrometry </summary>
 
 ### digiLAURA (LC/MS, Automatic, Universal, Result, Analysis)
 
-Automated reading of Meta Data Thermio .raw files
+Automated reading of Meta Data Thermio .raw files + Matlab-based Peak detection
 
 ```python 
     from pymsfilereader import MSFileReader
@@ -105,4 +105,27 @@ Automated reading of Meta Data Thermio .raw files
 
 </details>
 
+<details>
 
+<summary> Enzyme-Substrate Pair Prediction </summary>
+
+### Enzyme-Substrate Pair Prediction
+
+based on The substrate scopes of enzymes: [A general prediction model based on machine and deep learning](https://www.nature.com/articles/s41467-023-38347-2)
+
+```python 
+    pip install torch
+    pip install numpy
+    pip install tensorflow
+    pip install fair-esm
+    pip install jupyter
+    pip install matplotlib
+    pip install hyperopt
+    pip install pickle
+    pip install biopython
+    conda install pandas=1.3.0
+    conda install -c conda-forge py-xgboost=1.2.0
+    conda install -c rdkit rdkit
+```
+
+</details>
