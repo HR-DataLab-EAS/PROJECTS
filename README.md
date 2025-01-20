@@ -164,3 +164,22 @@ see: Moorhouse, B. L., Yeo, M. A., & Wan, Y. (2023). Generative AI tools and ass
 ```
 
 </details>
+
+
+
+
+
+
+<details>
+
+<summary> Uses of Generative AI in Manufacturing </summary>
+
+### Development of generative AI-based tools for Industrial Product Design
+
+Designers can explore a broader range of creative possibilities and refine designs more efficiently
+
+```python 
+
+```
+
+</details>
