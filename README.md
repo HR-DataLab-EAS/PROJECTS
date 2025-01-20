@@ -105,6 +105,7 @@ Automated reading of Meta Data Thermio .raw files + Matlab-based Peak detection
 
 </details>
 
+
 <details>
 
 <summary> Enzyme-Substrate Pair Prediction </summary>
@@ -126,6 +127,40 @@ based on The substrate scopes of enzymes: [A general prediction model based on m
     conda install pandas=1.3.0
     conda install -c conda-forge py-xgboost=1.2.0
     conda install -c rdkit rdkit
+```
+
+</details>
+
+
+<details>
+
+<summary> Urban Mining </summary>
+
+### Urban mining: automated detection of electronic components from printed circuit boards
+
+See: Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach
+
+```python 
+
+```
+
+</details>
+
+
+
+<details>
+
+<summary>  Generative AI tools and assessment </summary>
+
+### Development of generative AI-based tools for knowledge-grounded evaluation of bachelor theses
+
+
+The integration of generative AI in thesis evaluation is an evolving field, with ongoing research aimed at enhancing the accuracy, reliability, and ethical implementation of these tools in academic settings.
+
+see: Moorhouse, B. L., Yeo, M. A., & Wan, Y. (2023). Generative AI tools and assessment: Guidelines of the world's top-ranking universities. Computers and Education Open, 5, 100151.
+
+```python 
+
 ```
 
 </details>
