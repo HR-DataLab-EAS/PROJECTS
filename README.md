@@ -176,7 +176,27 @@ see: Moorhouse, B. L., Yeo, M. A., & Wan, Y. (2023). Generative AI tools and ass
 
 ### Development of generative AI-based tools for Industrial Product Design
 
-Designers can explore a broader range of creative possibilities and refine designs more efficiently
+Designers can explore a broader range of creative possibilities and refine designs more efficiently.
+Generative AI is reshaping industrial product design and manufacturing by enhancing creativity, accelerating processes, optimizing resources, and supporting sustainability goals. However, its successful implementation requires collaboration between AI tools and human expertise.
+
+```python 
+
+```
+
+</details>
+
+
+
+
+<details>
+
+<summary> Digital-twins </summary>
+
+### Optimization of electric vehicles (EVs) using MATLAB and Simulink
+
+Digital twins are virtual representations of physical assets, enabling real-time monitoring, simulation, and optimization of electric vehicles (EVs) using MATLAB and Simulink. These tools provide a comprehensive platform for EV development, combining physics-based modeling, advanced data analytics, and AI capabilities.
+
+By utilizing MATLAB and Simulink for digital twin creation in EV design, engineers can front-load development, optimize systems, and leverage data-driven insights to enhance vehicle performance and reliability
 
 ```python 
 
