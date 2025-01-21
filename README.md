@@ -9,17 +9,41 @@ Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van h
 
 Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op locatie Academie Plein en beschikt over een viertal High Reformance Computing **--HPC--** Workstations met elk met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data intensive en/of reken intensieve data science use cases uit te voeren.
 
-HR DataLab EAS sluit aan bij de focus van EAS op drie thema's: smart energy, smart materials en smart methods. Het DataLab draagt bij aan de ambitie van EAS om studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis over data science de basis vormt voor betekenisvolle inzichten en prototypes.
+HR DataLab EAS is gericht op een drietal tenchische vraagstukken: smart energy, smart materials en smart methods. 
+Het draagt bij aan de ambitie van EAS om studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis over data science de basis vormt voor het ontwikkelen van betekenisvolle inzichten en testbare prototypes. 
+<br> <br>
+***********
+
+<font size="6"> **Mission Statement & Visie op Data(Labs)**</font>
+
+
+Hogeschool Rotterdam **--HR--** heeft een netwerk van DataLabs opgezet om **"information governance"** te faciliteren om zo eindgebruikers te ondersteunen bij het veilig en verantwoord ontwikkelen van datagedreven oplossingen.
+
+Dit federatieve ecosysteem bestaat momenteel uit viertal labs, elk met een specifieke focus en locatie:
+
+1. [DataLab Rptterdam (CMI | Wijnhaven) ](https://datalabrotterdam.nl/)
+2. [HR-DataLab EAS (EAS | Academieplein) ](https://github.com/HR-DataLab-EAS/PROJECTS)
+3. [HR-DataLab Healthcare (KCZI, Rochussen straat)](https://www.hogeschoolrotterdam.nl/onderzoek/projecten-en-publicaties/zorginnovatie/zorginnovatie-met-technologie/hr-datalab-healthcare/)
+4. [IGO GigiHub (IGO | Academieplein)](https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/igo2/24-lwg-digitalisering-gebouwde-omgeving/)
+
+Data Science **––DS––** vormt de kern van alle labs. Deze interdisciplinaire wetenschap richt zich op het verantwoord extraheren van betekenisvolle informatie uit datasets.
+Deze aanpak sluit aan bij de bredere strategie van Hogeschool Rotterdam om digitale transities te bevorderen en expertise op te bouwen over Artificial Intelligence **--AI--**.
+Hierdoor creëert HR een op innovatie gerichte cultuur, waarin onderzoekers, docenten, studenten en professionals kunnen samenwerken aan innovatieve oplossingen voor complexe vraagstukken in verschillende domeinen, waaronder de zorg en techniek.
+<br> <br>
 
 ***********
 
-<font size="7"> **Mission Statement & Visie op Data**</font>
+<font size="6"> **AI-act & AVG**</font>
 
-Hogeschool Rotterdam **--HR--** huisvest DataLabs die professionele samenwerkingsverbanden bieden om eindgebruikers van data te helpen bij het veilig en verantwoord ontwikkelen van oplossingen voor data science use cases met behulp van lokaal beschikbare ICT-infrastructuur.
+Het HR-DataLab ecosysteem biedt gespecialiseerde ondersteuning en diensten voor de implementatie van de  AI-Act, een wetgeving die op 1 augustus 2024 in werking is getreden. 
+Deze Europese verordening streeft naar de ontwikkeling en inzet van veilige, betrouwbare en transparante AI-technologie.
+De AI Act treedt stapsgewijs in werking. In 2025 gaan de eerste regels gelden.
 
- Data Science  **––DS––**  is een interdisciplinair vakgebied gericht op het extraheren van betekenisvolle informatie uit datasets. Het kan ingezet worden als praktijkgerichte  kennisbasis voor  data-gedreven besluitvorming & innovatie.
+* Vanaf 2 februari 2025 zijn de AI-systemen uit de categorie ‘onaanvaardbaar risico’ verboden en moeten ze van de Europese markt zijn gehaald.
 
-Deze **"Github Repository"** beschrijft hoe HR-DataLab EAS vorm geeft aan **"information governance"** en **informatiewaardeketens** waarbij de focus ligt op de rol en het gebruik van digitale data binnen het hoger techniekonderwijs in de regio Rotterdam.
+* Vanaf 2 februari 2025 gaat de AI-kennisplicht in. Van organisaties wordt verwacht dat medewerkers die met AI-systemen werken voldoende kennis bezitten over AI. Zeker als het gaat om systeem in de categorie ‘hoog risico’.
+
+* Vanaf 2 augustus gaan de regels voor AI-modellen voor algemene doeleinden in, hiertoe behoort onder meer ChatGPT. Daarnaast moet bekend zijn welke instanties in Nederland optreden als toezichthouder.
 <br> <br>
 
 <img align="left" width="200" height="300" src="https://user-images.githubusercontent.com/684692/211400087-a93ef037-e191-4356-8fc2-4773e247ef9c.jpg">
