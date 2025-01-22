@@ -5,7 +5,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # <font size="9"> **HR DATALAB EAS**</font>
 
 
-Instituut voor Engineering en Applied Science (EAS) streeft naar innovatie van hoger techniekonderwijs.
+Instituut voor Engineering en Applied Science **--[EAS](https://www.hogeschoolrotterdam.nl/samenwerking/instituten/instituut-voor-engineering-en-applied-science/introductie/)--** streeft naar innovatie van hoger techniekonderwijs.
 
 Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op locatie Academie Plein en beschikt over een viertal High Performance Computing **--HPC--** Workstations met elk met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data intensive en/of reken intensieve data science use cases uit te voeren.
 
