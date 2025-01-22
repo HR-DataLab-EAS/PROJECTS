@@ -5,19 +5,21 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 # <font size="9"> **HR DATALAB EAS**</font>
 
 
-Instituut voor Engineering en Applied Science **--[EAS](https://www.hogeschoolrotterdam.nl/samenwerking/instituten/instituut-voor-engineering-en-applied-science/introductie/)--** streeft naar innovatie van hoger techniekonderwijs.
+Instituut voor Engineering en Applied Science **--[EAS](https://www.hogeschoolrotterdam.nl/samenwerking/instituten/instituut-voor-engineering-en-applied-science/introductie/)--** zet zich in voor innovatie van het hoger techniekonderwijs in de regio Rotterdam.
 
-Het **HR DataLab EAS** is een cross-functioneel Agile team. Bestaande uit  5-tal docent datawetenschappers + Tech support.  Het is gehuisvest op locatie Academie Plein en beschikt over een viertal High Performance Computing **--HPC--** Workstations met elk met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data intensive en/of reken intensieve data science use cases uit te voeren.
+Het **HR DataLab EAS** is een cross-functioneel Agile team met vijf docent-datawetenschappers, een datalab coordinator en een tech-supportspecialist. Het team is gevestigd op Hogeschool Rotterdam **--HR--** locatie Academie Plein. Er zijn vier High Performance Computing **--HPC--** workstations beschikbaar, elk uitgerust met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data-intensieve en/of rekenintensieve data science-usecases uit te voeren.
 
-HR DataLab EAS is gericht op een drietal tenchische vraagstukken: smart energy, smart materials en smart methods. 
-Het draagt bij aan de ambitie van EAS om studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis over data science de basis vormt voor het ontwikkelen van betekenisvolle inzichten en testbare prototypes. 
+Ons lab richt zich op drie technische vraagstukken: smart energy, smart materials en smart methods. 
+Het draagt bij aan de HR-brede ambitie om EAS studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis van data science **--DS--** de basis vormt voor het ontwikkelen van betrouwbare informatiewaardeketens en testbare prototypes.
+
 <br> <br>
 ***********
 
 <font size="6"> **Mission Statement & Visie op Data(Labs)**</font>
 
+Hogeschool Rotterdam (HR) heeft een netwerk van DataLabs opgezet om de veilige en verantwoorde ontwikkeling van  datagedreven oplossingen te ondersteunen, met als centraal uitgangspunt **Human-in-the-Loop**.
 
-Hogeschool Rotterdam **--HR--** heeft een netwerk van DataLabs opgezet om **"information governance"** te faciliteren om zo eindgebruikers te ondersteunen bij het veilig en verantwoord ontwikkelen van datagedreven oplossingen.
+
 
 Dit federatieve ecosysteem bestaat momenteel uit viertal labs, elk met een specifieke focus en locatie:
 
@@ -27,7 +29,8 @@ Dit federatieve ecosysteem bestaat momenteel uit viertal labs, elk met een speci
 4. [IGO GigiHub (IGO | Academieplein)](https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/igo2/24-lwg-digitalisering-gebouwde-omgeving/)
 
 Data Science **––DS––** vormt de kern van alle labs. Deze interdisciplinaire wetenschap richt zich op het verantwoord extraheren van betekenisvolle informatie uit datasets.
-Deze aanpak sluit aan bij de bredere strategie van Hogeschool Rotterdam om digitale transities te bevorderen en expertise op te bouwen over Artificial Intelligence **--AI--**.
+
+Deze aanpak sluit aan bij de bredere strategie van Hogeschool Rotterdam om digitale transities te bevorderen en expertise op te bouwen over Information Governance **--IG--**  & Artificial Intelligence **--AI--**.
 Hierdoor creëert HR een op innovatie gerichte cultuur, waarin onderzoekers, docenten, studenten en professionals kunnen samenwerken aan innovatieve oplossingen voor complexe vraagstukken in verschillende domeinen, waaronder de zorg en techniek.
 <br> <br>
 
