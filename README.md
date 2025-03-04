@@ -113,7 +113,7 @@ Enkele kenmerken van een data science use case zijn:
 
 ### Project LAURA (LC/MS, Automatic, Universal, Result, Analysis)
 
-[a link]https://github.com/HR-DataLab-EAS/LAURA
+[Go to project LAURA]https://github.com/HR-DataLab-EAS/LAURA
 
 Automated reading of Meta Data Thermio .raw files + Matlab-based Peak detection
 
