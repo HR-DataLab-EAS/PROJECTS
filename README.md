@@ -109,9 +109,11 @@ Enkele kenmerken van een data science use case zijn:
 
 <details>
 
-<summary> liquid-chromatography-mass-spectrometry </summary>
+<summary> LC/MS Automatic Universal Result Analysis (LAURA)</summary>
 
-### digiLAURA (LC/MS, Automatic, Universal, Result, Analysis)
+### Project LAURA (LC/MS, Automatic, Universal, Result, Analysis)
+
+[a link]https://github.com/HR-DataLab-EAS/LAURA
 
 Automated reading of Meta Data Thermio .raw files + Matlab-based Peak detection
 
