@@ -7,7 +7,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 Instituut voor Engineering en Applied Science **--[EAS](https://www.hogeschoolrotterdam.nl/samenwerking/instituten/instituut-voor-engineering-en-applied-science/introductie/)--** zet zich in voor innovatie van het hoger techniekonderwijs in de regio Rotterdam.
 
-Het **HR DataLab EAS** is een cross-functioneel Agile team met vijf docent-datawetenschappers, een datalab coordinator en een tech-supportspecialist. Het team is gevestigd op Hogeschool Rotterdam **--HR--** locatie Academie Plein. Er zijn vier High Performance Computing **--HPC--** workstations beschikbaar, elk uitgerust met een RTX 4090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data-intensieve en/of rekenintensieve data science-usecases uit te voeren.
+Het **HR DataLab EAS** is een cross-functioneel Agile team dat de acht opleidingen van EAS vertegenwoordigt. Het team bestaat dan ook altijd uit minimaal acht docent-datawetenschappers, een datalab coordinator en een tech-supportspecialist. Het team is gevestigd op Hogeschool Rotterdam **--HR--** locatie Academie Plein. Er zijn vier High Performance Computing **--HPC--** workstations beschikbaar, elk uitgerust met een RTX 4090 óf 5090 NVIDIA GPU. Hierdoor is het mogelijk om on-premise data-intensieve en/of rekenintensieve data science-usecases uit te voeren.
 
 Ons lab richt zich op drie technische vraagstukken: smart energy, smart materials en smart methods. 
 Het draagt bij aan de HR-brede ambitie om EAS studenten te laten werken aan innovatieve en uitdagende opdrachten, waarbij actuele kennis van data science **--DS--** de basis vormt voor het ontwikkelen van betrouwbare informatiewaardeketens en testbare prototypes.
@@ -23,7 +23,7 @@ Hogeschool Rotterdam (HR) heeft een netwerk van DataLabs opgezet om de veilige e
 
 Dit federatieve ecosysteem bestaat momenteel uit viertal labs, elk met een specifieke focus en locatie:
 
-1. [DataLab Rptterdam (CMI | Wijnhaven) ](https://datalabrotterdam.nl/)
+1. [DataLab Rotterdam (CMI | Wijnhaven) ](https://datalabrotterdam.nl/)
 2. [HR-DataLab EAS (EAS | Academieplein) ](https://github.com/HR-DataLab-EAS/PROJECTS)
 3. [HR-DataLab Healthcare (KCZI, Rochussen straat)](https://www.hogeschoolrotterdam.nl/onderzoek/projecten-en-publicaties/zorginnovatie/zorginnovatie-met-technologie/hr-datalab-healthcare/)
 4. [IGO GigiHub (IGO | Academieplein)](https://www.hogeschoolrotterdam.nl/hogeschool/nieuws/igo2/24-lwg-digitalisering-gebouwde-omgeving/)
